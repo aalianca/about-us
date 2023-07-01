@@ -1870,12 +1870,12 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background-color: #153e52;
+	background-color: gainsboro;
 	text-align: center;
 }
 
 .ex-header h1 {
-	color: #fff;
+	color: #484a46;
 }
 
 .ex-basic-1 {
